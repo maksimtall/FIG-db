@@ -29,8 +29,8 @@ def LoginLoop():
         else:
             print("Hello ", askObj.get("name"))
 
-
-LoginLoop()
+def start():
+    LoginLoop()
 
 # ask()
 # close(file)
