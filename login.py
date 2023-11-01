@@ -29,7 +29,7 @@ def LoginLoop():
         else:
             print("Hello ", askObj.get("name"))
 
-def start():
+def loginstart():
     LoginLoop()
 
 # ask()
