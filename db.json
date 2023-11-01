@@ -1,1 +1,9 @@
-admin:admin:a@a.com:burgir:6969,Maksim:maksim:maks.tall0@gmail.com:2803:2011
+{
+    "admin": {
+        "name": "Administrator",
+        "user": "admin",
+        "email": "a@a.com",
+        "password": "burgir",
+        "birth": "0"
+    }
+}
