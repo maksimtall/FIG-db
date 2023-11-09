@@ -9,14 +9,14 @@ os.system("color a")
 start = input("Press Enter to Engage")
 os.system("cls")
 os.system("color a")
-os.system("title Fake Identity Generator V6")
+os.system("title Fake Identity Generator V8")
 
 # Define TK
 
-mainRoot = Tk()
-mainRoot.title("Fake Identity Generator V7")
-mainRoot.geometry("800x500")
-mainRoot.mainloop()
+#mainRoot = Tk()
+#mainRoot.title("Fake Identity Generator V8")
+#mainRoot.geometry("800x500")
+#mainRoot.mainloop()
 
 
 def adminst():
